@@ -1,0 +1,12 @@
+.ButtonStyle {
+  background-color: transparent;
+  color: black;
+  text-align: left;
+  display: block;
+  width: 100%;
+  padding: 100px;
+}
+
+.ButtonStyle:hover {
+  background-color: #f0f0f0;
+}
